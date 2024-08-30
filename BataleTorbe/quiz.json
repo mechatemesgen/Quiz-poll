@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "options": {
+                "A": "Berlin",
+                "B": "Madrid",
+                "C": "Paris",
+                "D": "Rome"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": {
+                "A": "Earth",
+                "B": "Jupiter",
+                "C": "Mars",
+                "D": "Saturn"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": {
+                "A": "Harper Lee",
+                "B": "Mark Twain",
+                "C": "Ernest Hemingway",
+                "D": "J.K. Rowling"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": {
+                "A": "Au",
+                "B": "Ag",
+                "C": "Pb",
+                "D": "Fe"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "5"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What gas do plants need for photosynthesis?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Carbon Dioxide",
+                "C": "Nitrogen",
+                "D": "Hydrogen"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": {
+                "A": "Gold",
+                "B": "Iron",
+                "C": "Diamond",
+                "D": "Platinum"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": {
+                "A": "Vincent Van Gogh",
+                "B": "Pablo Picasso",
+                "C": "Leonardo da Vinci",
+                "D": "Claude Monet"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "options": {
+                "A": "Tomato",
+                "B": "Avocado",
+                "C": "Onion",
+                "D": "Chili Pepper"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is the capital of Japan?",
+            "options": {
+                "A": "Seoul",
+                "B": "Beijing",
+                "C": "Tokyo",
+                "D": "Bangkok"
+            },
+            "correctAnswer": "C"
+        }
+    ]
+}
