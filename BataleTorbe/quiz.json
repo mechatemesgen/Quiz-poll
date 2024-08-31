@@ -1,11 +1,11 @@
 {
     "questions": [
         {
-            "question": "What is the capital of France?",
+            "question": "What is the capital of Ethiopia?",
             "options": {
                 "A": "Berlin",
                 "B": "Madrid",
-                "C": "Paris",
+                "C": "Addis Ababa",
                 "D": "Rome"
             },
             "correctAnswer": "C"
