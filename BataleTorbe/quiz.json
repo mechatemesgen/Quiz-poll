@@ -83,6 +83,90 @@
                 "B": "Blue"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "What is your favorite color?",
+            "options": {
+                "A": "Red",
+                "B": "Blue",
+                "C": "Green"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is your favorite color?",
+            "options": {
+                "A": "Red",
+                "B": "Blue",
+                "C": "Green",
+                "D": "Yellow",
+                "E": "Purple"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is your favorite color?",
+            "options": {
+                "A": "Red",
+                "B": "Blue"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is your favorite color?",
+            "options": {
+                "A": "Red",
+                "B": "Blue",
+                "C": "Green"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is your favorite color?",
+            "options": {
+                "A": "Red",
+                "B": "Blue",
+                "C": "Green",
+                "D": "Yellow",
+                "E": "Purple"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is your favorite color?",
+            "options": {
+                "A": "Red",
+                "B": "Blue"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is your favorite color?",
+            "options": {
+                "A": "Red",
+                "B": "Blue",
+                "C": "Green"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is your favorite color?",
+            "options": {
+                "A": "Red",
+                "B": "Blue",
+                "C": "Green",
+                "D": "Yellow",
+                "E": "Purple"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is your favorite color?",
+            "options": {
+                "A": "Red",
+                "B": "Blue"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
