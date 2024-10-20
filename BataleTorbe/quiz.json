@@ -1,11 +1,102 @@
 {
     "questions": [
         {
-            "question": "What is your favorite color?",
+            "question": "Giving a student extra homework after they misbehave in class is an example of:",
             "options": {
-                "A": "Red",
-                "B": "Blue",
-                "C": "Green"
+                "A": "Positive Reinforcement",
+                "B": "Negative Punishment",
+                "C": "Positive Punishment",
+                "D": "Negative Reinforcement"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Usmael's parents believe in his uniqueness and strength as an individual. They feel much more confident about him—as if he is really growing and reaching his full potential. The therapist being described most likely follows a:",
+            "options": {
+                "A": "Cognitive perspective",
+                "B": "Socio-cultural perspective",
+                "C": "Biological perspective",
+                "D": "Humanistic perspective"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Coca-Cola Company gave a surprise gift bonus for the workers for their outstanding performance of the year. Which one of the schedules of reinforcement is indicated above?",
+            "options": {
+                "A": "Variable interval",
+                "B": "Fixed ratio",
+                "C": "Fixed interval",
+                "D": "Variable ratio"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Acquiring a fear of light because you saw someone else getting shocked when the light came on is an example of:",
+            "options": {
+                "A": "Social learning",
+                "B": "Classical Learning",
+                "C": "Instrumental Learning",
+                "D": "Involuntary learning"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Getahun got sick after he ate shero wate in the cafeteria. Now he feels sick when he looks at shero and all bean products. This illustrates:",
+            "options": {
+                "A": "Spontaneous recovery",
+                "B": "Stimulus Generalization",
+                "C": "Modeling",
+                "D": "Intermittent reinforcement"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "This field of psychology studies differences in behavior among individuals.",
+            "options": {
+                "A": "Counseling Psychology",
+                "B": "Educational Psychology",
+                "C": "Developmental Psychology",
+                "D": "Personality Psychology"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "This field applies techniques and strategies to make learning take place in the most satisfactory way possible.",
+            "options": {
+                "A": "Counseling Psychology",
+                "B": "Educational Psychology",
+                "C": "Clinical Psychology",
+                "D": "School Psychology"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "This field deals with the maturational development of people and their passage through the different stages of growth, from childhood to old age.",
+            "options": {
+                "A": "Developmental Psychology",
+                "B": "Social Psychology",
+                "C": "Forensic Psychology",
+                "D": "Clinical Psychology"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "This field deals with less severe psychological problems.",
+            "options": {
+                "A": "Clinical Psychology",
+                "B": "Counseling Psychology",
+                "C": "Forensic Psychology",
+                "D": "Social Psychology"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "This field studies the way we affect and are affected by others.",
+            "options": {
+                "A": "Developmental Psychology",
+                "B": "Social Psychology",
+                "C": "Clinical Psychology",
+                "D": "Educational Psychology"
             },
             "correctAnswer": "B"
         }
