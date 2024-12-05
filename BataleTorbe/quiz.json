@@ -1,5 +1,5 @@
 {
-    "weeklyContestStatus": "on",
+    "weeklyContestStatus": "off",
     "questions": [
         {
             "question": "If a deductive argument has all true premises, then it is valid.",
