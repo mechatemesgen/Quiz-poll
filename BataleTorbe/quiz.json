@@ -2,104 +2,98 @@
     "weeklyContestStatus": "off",
     "questions": [
         {
-            "question": "Giving a student extra homework after they misbehave in class is an example of:",
+            "question": "If a deductive argument has all true premises, then it is valid.",
             "options": {
-                "A": "Positive Reinforcement",
-                "B": "Negative Punishment",
-                "C": "Positive Punishment",
-                "D": "Negative Reinforcement"
+                "A": "True",
+                "B": "False"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Categorical syllogisms begin with words like \"all,\" \"none,\" or \"some.\"",
+            "options": {
+                "A": "True",
+                "B": "False"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Ethics tries to deal with particular actions, guiding what is right and wrong.",
+            "options": {
+                "A": "True",
+                "B": "False"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "The validity of a deductive argument can be determined by its logical structure.",
+            "options": {
+                "A": "True",
+                "B": "False"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "An argument is a type of passage that intends to establish a conclusion through reasoning.",
+            "options": {
+                "A": "True",
+                "B": "False"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Which of the following are all types of arguments?",
+            "options": {
+                "A": "Illustrations, syllogisms, explanations",
+                "B": "Predictions, categorical syllogisms, arguments from signs",
+                "C": "Warnings, conditional statements, statements of belief",
+                "D": "Expository passages, reports, pieces of advice"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Which of the following is a conclusion indicator?",
+            "options": {
+                "A": "Therefore",
+                "B": "So",
+                "C": "Entails that",
+                "D": "All of the above",
+                "E": "A and B"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Which of the following is a sufficient condition for committing a crime?",
+            "options": {
+                "A": "Having a good lawyer",
+                "B": "Robbing a bank",
+                "C": "Going to jail",
+                "D": "Avoiding the police",
+                "E": "Signing a confession"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "In the statement \"If a nation engages in torture, then it loses moral authority in the world community,\" the statement \"A nation engages in torture\" is called the:",
+            "options": {
+                "A": "Conclusion",
+                "B": "Explanandum",
+                "C": "Consequent",
+                "D": "Antecedent",
+                "E": "Condition"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "An argument whose conclusion rests on a similarity between two things or situations is:",
+            "options": {
+                "A": "A valid argument",
+                "B": "An unsound argument",
+                "C": "An analogy",
+                "D": "A cogent argument",
+                "E": "A deductive argument"
             },
             "correctAnswer": "C"
-        },
-        {
-            "question": "Usmael's parents believe in his uniqueness and strength as an individual. They feel much more confident about him—as if he is really growing and reaching his full potential. The therapist being described most likely follows a:",
-            "options": {
-                "A": "Cognitive perspective",
-                "B": "Socio-cultural perspective",
-                "C": "Biological perspective",
-                "D": "Humanistic perspective"
-            },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "Coca-Cola Company gave a surprise gift bonus for the workers for their outstanding performance of the year. Which one of the schedules of reinforcement is indicated above?",
-            "options": {
-                "A": "Variable interval",
-                "B": "Fixed ratio",
-                "C": "Fixed interval",
-                "D": "Variable ratio"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "Acquiring a fear of light because you saw someone else getting shocked when the light came on is an example of:",
-            "options": {
-                "A": "Social learning",
-                "B": "Classical Learning",
-                "C": "Instrumental Learning",
-                "D": "Involuntary learning"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "Getahun got sick after he ate shero wate in the cafeteria. Now he feels sick when he looks at shero and all bean products. This illustrates:",
-            "options": {
-                "A": "Spontaneous recovery",
-                "B": "Stimulus Generalization",
-                "C": "Modeling",
-                "D": "Intermittent reinforcement"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "This field of psychology studies differences in behavior among individuals.",
-            "options": {
-                "A": "Counseling Psychology",
-                "B": "Educational Psychology",
-                "C": "Developmental Psychology",
-                "D": "Personality Psychology"
-            },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "This field applies techniques and strategies to make learning take place in the most satisfactory way possible.",
-            "options": {
-                "A": "Counseling Psychology",
-                "B": "Educational Psychology",
-                "C": "Clinical Psychology",
-                "D": "School Psychology"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "This field deals with the maturational development of people and their passage through the different stages of growth, from childhood to old age.",
-            "options": {
-                "A": "Developmental Psychology",
-                "B": "Social Psychology",
-                "C": "Forensic Psychology",
-                "D": "Clinical Psychology"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "This field deals with less severe psychological problems.",
-            "options": {
-                "A": "Clinical Psychology",
-                "B": "Counseling Psychology",
-                "C": "Forensic Psychology",
-                "D": "Social Psychology"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "This field studies the way we affect and are affected by others.",
-            "options": {
-                "A": "Developmental Psychology",
-                "B": "Social Psychology",
-                "C": "Clinical Psychology",
-                "D": "Educational Psychology"
-            },
-            "correctAnswer": "B"
         }
     ]
 }
