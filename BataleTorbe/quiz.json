@@ -2,96 +2,103 @@
     "weeklyContestStatus": "off",
     "questions": [
         {
-            "question": "If a deductive argument has all true premises, then it is valid.",
+            "question": "The brain is a complex biochemical organ that affects how people think & behave\" is the main theme of:",
             "options": {
-                "A": "True",
-                "B": "False"
+                "A": "A) Cognitive perspective",
+                "B": "B) Physiological perspective",
+                "C": "C) Psychoanalytic perspective",
+                "D": "D) Humanistic perspective"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "Categorical syllogisms begin with words like \"all,\" \"none,\" or \"some.\"",
+            "question": "Mahider’s dorm mates insult her to improve her behavior regarding cleaning. This technique is an example of:",
             "options": {
-                "A": "True",
-                "B": "False"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "Ethics tries to deal with particular actions, guiding what is right and wrong.",
-            "options": {
-                "A": "True",
-                "B": "False"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "The validity of a deductive argument can be determined by its logical structure.",
-            "options": {
-                "A": "True",
-                "B": "False"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "An argument is a type of passage that intends to establish a conclusion through reasoning.",
-            "options": {
-                "A": "True",
-                "B": "False"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "Which of the following are all types of arguments?",
-            "options": {
-                "A": "Illustrations, syllogisms, explanations",
-                "B": "Predictions, categorical syllogisms, arguments from signs",
-                "C": "Warnings, conditional statements, statements of belief",
-                "D": "Expository passages, reports, pieces of advice"
+                "A": "A) Positive Reinforcement",
+                "B": "B) Positive Punishment",
+                "C": "C) Negative Punishment",
+                "D": "D) Negative Reinforcement"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "Which of the following is a conclusion indicator?",
+            "question": "Which of the following is the principle of Gestalt psychology?",
             "options": {
-                "A": "Therefore",
-                "B": "So",
-                "C": "Entails that",
-                "D": "All of the above",
-                "E": "A and B"
+                "A": "A) Human beings are passive creatures",
+                "B": "B) The child is the father of the man",
+                "C": "C) The whole is greater than the sum of its parts",
+                "D": "D) Human beings have the potential for growth"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Psychologists who help people with minor educational, vocational, marital, and health-related problems are categorized as:",
+            "options": {
+                "A": "A) Clinical Psychologists",
+                "B": "B) Developmental Psychologists",
+                "C": "C) Social Psychologists",
+                "D": "D) Counseling Psychologists"
             },
             "correctAnswer": "D"
         },
         {
-            "question": "Which of the following is a sufficient condition for committing a crime?",
+            "question": "Which of the following is NOT an environmental factor that can affect perception?",
             "options": {
-                "A": "Having a good lawyer",
-                "B": "Robbing a bank",
-                "C": "Going to jail",
-                "D": "Avoiding the police",
-                "E": "Signing a confession"
+                "A": "A) Motivation",
+                "B": "B) Intensity",
+                "C": "C) Novelty",
+                "D": "D) Movement"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Who is recognized as the father of modern scientific psychology?",
+            "options": {
+                "A": "A) Sigmund Freud",
+                "B": "B) Ivan Pavlov",
+                "C": "C) William James",
+                "D": "D) B.F. Skinner",
+                "E": "E) None"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Which research method is used to collect data from a very large group of people?",
+            "options": {
+                "A": "A) Case study",
+                "B": "B) Survey research",
+                "C": "C) Experimental research",
+                "D": "D) Longitudinal study"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "In the statement \"If a nation engages in torture, then it loses moral authority in the world community,\" the statement \"A nation engages in torture\" is called the:",
+            "question": "What is the process called when the brain organizes information and translates it into something meaningful?",
             "options": {
-                "A": "Conclusion",
-                "B": "Explanandum",
-                "C": "Consequent",
-                "D": "Antecedent",
-                "E": "Condition"
+                "A": "A) Sensation",
+                "B": "B) Perception",
+                "C": "C) Encoding",
+                "D": "D) Memory"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "The Cognitive Perspective focuses on:",
+            "options": {
+                "A": "A) Studying how bodily events or the functioning of the body affect behavior, feelings, and thoughts",
+                "B": "B) Studying the unconscious mind",
+                "C": "C) Studying overt behavior",
+                "D": "D) Investigating how learning experiences shape behavior"
             },
             "correctAnswer": "D"
         },
         {
-            "question": "An argument whose conclusion rests on a similarity between two things or situations is:",
+            "question": "Psychology is the science that studies:",
             "options": {
-                "A": "A valid argument",
-                "B": "An unsound argument",
-                "C": "An analogy",
-                "D": "A cogent argument",
-                "E": "A deductive argument"
+                "A": "A) Only overt behavior",
+                "B": "B) Only covert behavior",
+                "C": "C) Both overt and covert behavior",
+                "D": "D) Human physiology"
             },
             "correctAnswer": "C"
         }
