@@ -2,105 +2,98 @@
     "weeklyContestStatus": "off",
     "questions": [
         {
-            "question": "The brain is a complex biochemical organ that affects how people think & behave\" is the main theme of:",
+            "question": "If a deductive argument has all true premises, then it is valid.",
             "options": {
-                "A": "A) Cognitive perspective",
-                "B": "B) Physiological perspective",
-                "C": "C) Psychoanalytic perspective",
-                "D": "D) Humanistic perspective"
+                "A": "A) True",
+                "B": "B) False"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "Mahider’s dorm mates insult her to improve her behavior regarding cleaning. This technique is an example of:",
+            "question": "Categorical syllogisms begin with words like 'all,' 'none,' or 'some.'",
             "options": {
-                "A": "A) Positive Reinforcement",
-                "B": "B) Positive Punishment",
-                "C": "C) Negative Punishment",
-                "D": "D) Negative Reinforcement"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "Which of the following is the principle of Gestalt psychology?",
-            "options": {
-                "A": "A) Human beings are passive creatures",
-                "B": "B) The child is the father of the man",
-                "C": "C) The whole is greater than the sum of its parts",
-                "D": "D) Human beings have the potential for growth"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "Psychologists who help people with minor educational, vocational, marital, and health-related problems are categorized as:",
-            "options": {
-                "A": "A) Clinical Psychologists",
-                "B": "B) Developmental Psychologists",
-                "C": "C) Social Psychologists",
-                "D": "D) Counseling Psychologists"
-            },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "Which of the following is NOT an environmental factor that can affect perception?",
-            "options": {
-                "A": "A) Motivation",
-                "B": "B) Intensity",
-                "C": "C) Novelty",
-                "D": "D) Movement"
+                "A": "A) True",
+                "B": "B) False"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "Who is recognized as the father of modern scientific psychology?",
+            "question": "Ethics tries to deal with particular actions, guiding what is right and wrong.",
             "options": {
-                "A": "A) Sigmund Freud",
-                "B": "B) Ivan Pavlov",
-                "C": "C) William James",
-                "D": "D) B.F. Skinner",
-                "E": "E) None"
+                "A": "A) True",
+                "B": "B) False"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "Which research method is used to collect data from a very large group of people?",
+            "question": "The validity of a deductive argument can be determined by its logical structure.",
             "options": {
-                "A": "A) Case study",
-                "B": "B) Survey research",
-                "C": "C) Experimental research",
-                "D": "D) Longitudinal study"
+                "A": "A) True",
+                "B": "B) False"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "What is the process called when the brain organizes information and translates it into something meaningful?",
+            "question": "An argument is a type of passage that intends to establish a conclusion through reasoning.",
             "options": {
-                "A": "A) Sensation",
-                "B": "B) Perception",
-                "C": "C) Encoding",
-                "D": "D) Memory"
+                "A": "A) True",
+                "B": "B) False"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "The Cognitive Perspective focuses on:",
+            "question": "Which of the following is a conclusion indicator?",
             "options": {
-                "A": "A) Studying how bodily events or the functioning of the body affect behavior, feelings, and thoughts",
-                "B": "B) Studying the unconscious mind",
-                "C": "C) Studying overt behavior",
-                "D": "D) Investigating how learning experiences shape behavior"
+                "A": "A) Therefore",
+                "B": "B) So",
+                "C": "C) Entails that",
+                "D": "D) All of the above"
             },
             "correctAnswer": "D"
         },
         {
-            "question": "Psychology is the science that studies:",
+            "question": "Which of the following is a sufficient condition for committing a crime?",
             "options": {
-                "A": "A) Only overt behavior",
-                "B": "B) Only covert behavior",
-                "C": "C) Both overt and covert behavior",
-                "D": "D) Human physiology"
+                "A": "A) Having a good lawyer",
+                "B": "B) Robbing a bank",
+                "C": "C) Going to jail",
+                "D": "D) Avoiding the police",
+                "E": "E) Signing a confession"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "In the statement 'If a nation engages in torture, then it loses moral authority in the world community,' the statement 'A nation engages in torture' is called the:",
+            "options": {
+                "A": "A) Conclusion",
+                "B": "B) Explanandum",
+                "C": "C) Consequent",
+                "D": "D) Antecedent",
+                "E": "E) Condition"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "An argument whose conclusion rests on a similarity between two things or situations is:",
+            "options": {
+                "A": "A) A valid argument",
+                "B": "B) An unsound argument",
+                "C": "C) An analogy",
+                "D": "D) A cogent argument",
+                "E": "E) A deductive argument"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "A central aim of philosophy is:",
+            "options": {
+                "A": "A) To learn how to win arguments and influence people",
+                "B": "B) To prove that others are ignorant and foolish",
+                "C": "C) To free the mind of any and all assumptions",
+                "D": "D) Acquire self-understanding",
+                "E": "E) C and D are answers"
+            },
+            "correctAnswer": "E"
         }
     ]
 }
